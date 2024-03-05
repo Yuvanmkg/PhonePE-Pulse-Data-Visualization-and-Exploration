@@ -1,0 +1,6 @@
+The Software requirements for the PhonePE-Pulse-Data-Visualization-and-Exploration
+pandas
+psycopg2
+requests
+streamlit
+plotly
